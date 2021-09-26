@@ -25,5 +25,4 @@
 
 ![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitpatilx&show_icons=true)
 
-<h2 align="center">Join Me At</h2>
-
+<!-- <h2 align="center">Join Me At</h2> -->
