@@ -7,14 +7,23 @@
 
 <h2 align="center">My Skills</h2>
 
-**Languages and Framework**
+**Languages**
 
-<img alt="Python" src="https://pbs.twimg.com/profile_images/439154912719413248/pUBY5pVj_200x200.png" width="30px">|<img alt="HTML" src="https://github.com/RohanDas28/RohanDas28/blob/master/Assets/html.png" width="30px">|<img alt="CSS" src="https://github.com/RohanDas28/RohanDas28/blob/master/Assets/css-3.png" width="30px">|<img alt="JavaScript" src="https://github.com/RohanDas28/RohanDas28/blob/master/Assets/css-3.png" width="30px">|<img alt="BootStrap" src="https://github.com/RohanDas28/RohanDas28/blob/master/Assets/bootstrap-logo.png" width="30px">|<img alt="TailWind CSS" src="https://github.com/RohanDas28/RohanDas28/blob/master/Assets/tailwindcss-icon.svg" width="30px">
-|--|--|--|--|--|--|
+<img alt="Python" src="https://pbs.twimg.com/profile_images/439154912719413248/pUBY5pVj_200x200.png" width="30px">|<img alt="HTML" src="" width="30px">|<img alt="CSS" src="" width="30px">|<img alt="JavaScript" src="" width="30px">
+|--|--|--|--|
 
+**Frameworks in Python**
+
+<img alt="Django" src="assets/django.svg" width="30px">|<img alt="Tkinter" src="assets/tkinter" width="30px">|<img alt="Flask" src="assets/flask" width="30px">
+|--|--|--|
+
+**Frontend Frameworks**
+
+<img alt="BootStrap" src="" width="30px">|<img alt="TailWind CSS" src="" width="30px">
+|--|--|
 
 **Designing and Photo Editing**
-<img alt="Adobe Photoshop" width="30px" src="https://github.com/RohanDas28/RohanDas28/blob/master/Assets/photoshop.png"/>|<img alt="Figma" width="30px" src="https://github.com/RohanDas28/RohanDas28/blob/master/Assets/photoshop.png"/>
+<img alt="Adobe Photoshop" width="30px" src=""/>|<img alt="Figma" width="30px" src=""/>
 |--|--|
 
 
