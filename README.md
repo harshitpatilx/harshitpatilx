@@ -9,21 +9,22 @@
 
 **Languages**
 
-<img alt="Python" src="https://pbs.twimg.com/profile_images/439154912719413248/pUBY5pVj_200x200.png" width="30px">|<img alt="HTML" src="" width="30px">|<img alt="CSS" src="" width="30px">|<img alt="JavaScript" src="" width="30px">
+<img alt="Python" src="https://pbs.twimg.com/profile_images/439154912719413248/pUBY5pVj_200x200.png" width="30px">|<img alt="HTML" src="assets/HTML-5.png" width="30px">|<img alt="CSS" src="assets/css-3.png" width="30px">|<img alt="JavaScript" src="assets/javascript.png" width="30px">
 |--|--|--|--|
 
 **Frameworks in Python**
 
-<img alt="Django" src="assets/django.svg" width="30px">|<img alt="Tkinter" src="assets/tkinter" width="30px">|<img alt="Flask" src="assets/flask" width="30px">
+<img alt="Django" src="assets/django.svg" width="30px">|<img alt="Tkinter" src="assets/tkinter.jpg" width="30px">|<img alt="Flask" src="assets/flask.png" width="30px">
 |--|--|--|
 
 **Frontend Frameworks**
 
-<img alt="BootStrap" src="" width="30px">|<img alt="TailWind CSS" src="" width="30px">
+<img alt="BootStrap" src="assets/bootstrap-logo.png" width="30px">|<img alt="TailWind CSS" src="assets/tailwind.svg" width="30px">
 |--|--|
 
 **Designing and Photo Editing**
-<img alt="Adobe Photoshop" width="30px" src=""/>|<img alt="Figma" width="30px" src=""/>
+
+<img alt="Adobe Photoshop" width="30px" src="assets/photoshop.png"/>|<img alt="Figma" width="30px" height="30px" src="assets/figma.svg"/>
 |--|--|
 
 
