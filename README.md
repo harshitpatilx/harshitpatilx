@@ -9,8 +9,8 @@
 
 **Languages**
 
-<img alt="Python" src="https://pbs.twimg.com/profile_images/439154912719413248/pUBY5pVj_200x200.png" width="30px">|<img alt="HTML" src="assets/HTML-5.png" width="30px">|<img alt="CSS" src="assets/css-3.png" width="30px">|<img alt="JavaScript" src="assets/javascript.png" width="30px">
-|--|--|--|--|
+<img alt="Python" src="https://pbs.twimg.com/profile_images/439154912719413248/pUBY5pVj_200x200.png" width="30px">|<img alt="HTML" src="assets/HTML-5.png" width="30px">|<img alt="CSS" src="assets/css-3.png" width="30px">|<img alt="JavaScript" src="assets/javascript.png" width="30px">|<img alt="Git" src="assets/git.png" width="30px">
+|--|--|--|--|--|
 
 **Frameworks in Python**
 
