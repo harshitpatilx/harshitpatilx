@@ -37,5 +37,5 @@
 
 <h2 align="center">Reach Me At</h2> 
 
-<a href="https://www.instagram.com/" title="instagram" target="_blank"><img alt="Instagram" src="assets/instagram.png" width="30px"></a>|<a href="https://www.hackerearth.com/@harshitpatilx" title="hacker earth"><img alt="HackerEarth" src="assets/hackerearth.png" width="30px"></a>|<a href="mailto:harshitpatilx@gmail.com" title="gmail" target="_blank"><img alt="Gmail" src="assets/gmail.png" width="30px"></a>|<a href="https://www.github.com/harshitpatilx" title="github" target="_blank"><img alt="Github" src="assets/github.png" width="30px"></a>|
-|--|--|--|--|
+<a href="https://www.instagram.com/" title="instagram" target="_blank"><img alt="Instagram" src="assets/instagram.png" width="30px"></a>|<a href="https://www.hackerearth.com/@harshitpatilx" title="hacker earth"><img alt="HackerEarth" src="assets/hackerearth.png" width="30px"></a>|<a href="mailto:harshitpatilx@gmail.com" title="gmail" target="_blank"><img alt="Gmail" src="assets/gmail.png" width="30px"></a>|<a href="https://www.github.com/harshitpatilx" title="github" target="_blank"><img alt="Github" src="assets/github.png" width="30px"></a>|<a href="https://www.facebook.com" title="facebook" target="_blank"><img alt="Facebook" src="assets/facebook.ico" width="30px"></a>|
+|--|--|--|--|--|
