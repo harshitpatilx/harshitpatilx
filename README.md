@@ -13,13 +13,13 @@
 
 **Frameworks in Python**
 
-<img alt="Django" src="assets/django.svg" width="30px">|<img alt="Tkinter" src="assets/tkinter.jpg" width="30px">|<img alt="Flask" src="assets/flask.png" width="30px">
+<img alt="Django" src="assets/django.svg" width="30px" title="django">|<img alt="Tkinter" src="assets/tkinter.jpg" width="30px" title="tkinter">|<img alt="Flask" src="assets/flask.png" width="30px" title="flask">
 |--|--|--|
 
 **Frontend Frameworks**
 
-<img alt="BootStrap" src="assets/bootstrap-logo.png" width="30px">|<img alt="TailWind CSS" src="assets/tailwind.svg" width="30px">
-|--|--|
+<img alt="BootStrap" src="assets/bootstrap-logo.png" width="30px" title="Bootstrap">|<img alt="TailWind CSS" src="assets/tailwind.svg" width="30px" title="Tailwind CSS">|<img alt="WordPress" src="assets/wordpress.ico" width="30px" title="Wordpress">
+|--|--|--|
 
 **Designing and Photo Editing**
 
