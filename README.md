@@ -31,8 +31,11 @@
 
 <h2 align="center">My Stats</h2>
 
-<!-- ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=harshitpatilx&show_icons=true&locale=en&layout=compact) -->
-
 ![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitpatilx&show_icons=true)
 
-<!-- <h2 align="center">Join Me At</h2> -->
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=harshitpatilx&show_icons=true&locale=en&layout=compact) 
+
+<h2 align="center">Reach Me At</h2> 
+
+<a href="https://www.instagram.com/" title="instagram" target="_blank"><img alt="Instagram" src="assets/instagram.png" width="30px"></a>|<a href="https://www.hackerearth.com/@harshit1993" title="hacker earth"><img alt="HackerEarth" src="assets/hackerearth.png" width="30px"></a>|<a href="mailto:harshitpatilx@gmail.com" title="gmail" target="_blank"><img alt="Gmail" src="assets/gmail.png" width="30px"></a>|<a href="https://www.github.com/harshitpatilx" title="github" target="_blank"><img alt="Github" src="assets/github.png" width="30px"></a>|
+|--|--|--|--|
