@@ -30,9 +30,9 @@
 
 <h2 align="center">My Stats</h2>
 
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitpatilx&show_icons=true)
-
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=harshitpatilx&show_icons=true&locale=en) 
+
+![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitpatilx&show_icons=true)
 
 <h2 align="center">Reach Me At</h2> 
 
