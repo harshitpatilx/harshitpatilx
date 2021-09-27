@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Harshit</h1>
-<h3 align="center">A Passionate Web-Developer.</h3>
 
 [![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](#)
 
