@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harshit</h1>
 
-[![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](#)
+[![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com)
 
-[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](#)
+[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 
 <h2 align="center">My Skills</h2>
 
